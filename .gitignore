@@ -1,0 +1,6 @@
+# dataset original (se descarga de Kaggle)
+data/raw/
+
+__pycache__/
+venv/
+.env
